@@ -35,3 +35,21 @@ def run_tests():
 # Edit this code
 def move(roll):
 
+    if roll == 1:
+        print(11 + roll)
+
+    elif roll == 2:
+        print(11 + roll)
+
+    elif roll == 3:
+        print("29")
+
+    elif roll == 4:
+        print(11 + roll)
+
+    elif roll == 5:
+        print(11 + 5)
+
+    elif roll == 6:
+        print("4")
+        
